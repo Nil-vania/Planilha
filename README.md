@@ -1,24 +1,20 @@
-# Planilha
-Desfio Final Dio x CAIXA - Plan
+## Desafio Final Dio x CAIXA - Excel
 
-# Desbravando o Mundo da Inteligência Artificial: O Primeiro Passo para o Futuro
+# Planilha de Gastos
 
 ## 📒 Descrição
-E-book com orientações para jovens de escola pública serem motivados a conhecerem a Inteligência Artificial e informações para iniciarem sua jornada de estudos.
+Criação de Planilha no Excel com tabelas dinâmicas, gráficos e Dashboard.
 
 ## 🤖 Tecnologias Utilizadas
-- IA Generativa **[ChatGPT](https://chat.openai.com)**
-- IA Gerador de Imagens **[LeonardoAI](https://app.leonardo.ai)**
+- Excel para Planilha **[Excel](https://www.microsoft.com/en-us/microsoft-365/excel?ocid=ORSEARCH_Bing&msockid=2bb1fc2ab7296dc50267e95cb6d26c5e)** 
+- IA Generativa para insights **[ChatGPT](https://chat.openai.com)**
 
 ## 🧐 Processo de Criação
-Usei a técnica FTAE para um prompt assertivo no Chat GPT.
-A capa do E-book foi gerada no Leonardo.Ai com prompt criado pelo Chat GPT.
+Criação da Planilha com passo a passo da aula.
+Planilha anexada no Chat GPT.
 
 ## 🚀 Resultados
-**[Link do E-book](https://drive.google.com/file/d/1iTvOu0Wfdv2RlpiKuwi1LJsmNE-MicW9/view?usp=drivesdk)** 
+**[Link da Planilha Excel](https://docs.google.com/file/d/1HF34lfu3lWbqLmhpg95PfpbCIl9rAE0s/edit?usp=docslist_api&filetype=msexcel)** 
 
-## 💭 Reflexão 
-Experiência incrível: meu primeiro E-book feito a partir do meu primeiro contato com programação.
 
-"A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original" Einstein
 
